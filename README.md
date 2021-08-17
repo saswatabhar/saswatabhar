@@ -12,7 +12,8 @@
 
 Hi, I'm Saswata Bhar, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India. <br> <br> 
 [![Linkedin Badge](https://img.shields.io/badge/-bharsaswata-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/saswatabhar)](https://www.linkedin.com/in/saswatabhar/)
-[![Twitter Badge](http://img.shields.io/badge/-@howdevelop-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/saswatabharstwt)](https://twitter.com/saswatabharstwt) 
+[![Twitter Badge](http://img.shields.io/badge/-@saswatabharstwt-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/saswatabharstwt)](https://twitter.com/saswatabharstwt) 
+
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:saswatabhar.official@gmail.com)](mailto:saswatabhar.official@gmail.com)
 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=saswatabhar.saswatabhar)  <br> 
